@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387933432975",
+    "firebase_url": "https://loyal-polymer-251815.firebaseio.com",
+    "project_id": "loyal-polymer-251815",
+    "storage_bucket": "loyal-polymer-251815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387933432975:android:519ea9372e8ef3b87a14fa",
+        "android_client_info": {
+          "package_name": "com.example.myandroidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387933432975-h8oebfr641900jcilahhucfteus2m3pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myandroidproject",
+            "certificate_hash": "713969a5768d09adea79545d4e24c38f49bb2540"
+          }
+        },
+        {
+          "client_id": "387933432975-r3fseai4c0b6e7muuaq7flu7i47gb8er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIlTBk2bZfIcBu7j76lzIg4BQW2eico5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387933432975-r3fseai4c0b6e7muuaq7flu7i47gb8er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

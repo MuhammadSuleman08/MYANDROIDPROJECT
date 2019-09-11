@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_tutorialpoint"
+        android:icon="@drawable/cvcklynb"
+        android:title="Tutorials Point"/>
+    <item
+        android:id="@+id/nav_geeeks"
+        android:icon="@drawable/zfrpqnk4"
+        android:title="Geeks for Geeks"/>
+    <item
+        android:id="@+id/nav_w3schools"
+        android:icon="@drawable/c6wsxn36"
+        android:title="w3schools"/>
+
+</menu>
